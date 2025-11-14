@@ -15,7 +15,7 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        ViewBag.Message = $"Welcome to ASP.NET Core MVC on Azure! ({DateTime.Now})";
+        ViewBag.Message = $"Welcome to ASP.NET Core MVC on Azure! {DateTime.Now}";
         return View();
     }
 
