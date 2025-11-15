@@ -94,3 +94,4 @@ D:\Sudheer\Azure\PracticeRepo\SampleForAzure\obj\Debug\net9.0\refint\SampleForAz
 D:\Sudheer\Azure\PracticeRepo\SampleForAzure\obj\Debug\net9.0\SampleForAzure.pdb
 D:\Sudheer\Azure\PracticeRepo\SampleForAzure\obj\Debug\net9.0\SampleForAzure.genruntimeconfig.cache
 D:\Sudheer\Azure\PracticeRepo\SampleForAzure\obj\Debug\net9.0\ref\SampleForAzure.dll
+D:\Sudheer\Azure\PracticeRepo\SampleForAzure\obj\Debug\net9.0\SampleForAzure.sourcelink.json

@@ -16,11 +16,13 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         ViewBag.Message = $"Welcome to ASP.NET Core MVC on Azure! {DateTime.Now}";
+        throw new Exception("You can't catch me!");
         return View();
     }
 
     public IActionResult Privacy()
     {
+        throw new Exception($"You can't catch me! {DateTime.Now}");
         return View();
     }
 
