@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SampleForAzure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0e081ecd6dd2135ca8cf67b1aca6f627b5c9879")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee3d5d6d8d48e5fc5bbafee1c33dcc1a7ef314b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SampleForAzure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SampleForAzure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

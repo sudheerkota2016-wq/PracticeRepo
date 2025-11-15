@@ -16,7 +16,7 @@ public class HomeController : Controller
     public IActionResult Index()
     {
         ViewBag.Message = $"Welcome to ASP.NET Core MVC on Azure! {DateTime.Now}";
-        throw new Exception("You can't catch me!");
+        System.Diagnostics.Trace.TraceInformation("If you're seeing this, something bad happened, Sudheer");
         return View();
     }
 
